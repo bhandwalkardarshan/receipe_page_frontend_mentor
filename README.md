@@ -14,9 +14,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -78,11 +75,9 @@ To see how you can add code snippets, see below:
 - [Stack Overflow](https://stackoverflow.com/questions/14676613/how-to-import-google-web-font-in-css-file) - This helped me for importing fonts in css. I really liked this pattern and will use it going forward.
 - [W3 Schools](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) - This is an amazing article which helped me finally understand responsive designs. I'd recommend it to anyone still learning this concept.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
 ## Author
 
 - Website - [Darshan B.](https://github.com/bhandwalkardarshan)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/bhandwalkardarshan)
+- Frontend Mentor - [@bhandwalkardarshan](https://www.frontendmentor.io/profile/bhandwalkardarshan)
 
 
